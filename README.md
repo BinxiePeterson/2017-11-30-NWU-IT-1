@@ -1,4 +1,4 @@
-# workshop-template
+# workshop-template for NWU-IT workshop
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
